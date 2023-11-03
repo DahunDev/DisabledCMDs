@@ -1,0 +1,8 @@
+name: DisabledCMDs
+main: net.mckite.DisabledCMDs.Main
+version: 1.0
+
+
+commands:
+  disabledcmds:
+    aliases: [명령어제한리로드]
