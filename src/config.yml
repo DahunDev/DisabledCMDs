@@ -1,0 +1,15 @@
+# # # # # # # # # # # # # # # 
+
+#관리자 권한이 있는 사람에게도 명령어 비활성화 적용 여부
+also_apply_for_op: true
+
+Deny_message: |-
+  &b&l[ &f&lKite SV &b&l] &c명령어 %cmd%는 관리자에 의해 비활성화 되어있습니다.
+reloaded: |-
+  &b&l[ &f&lKite SV &b&l] &a성공적으로 설정을 재로드 하였습니다.
+
+send_deny_msg: true
+
+#모두 소문자로 ("" 사이에 명령어 입력)
+Disabled-CMDs:
+- "/example_command"
